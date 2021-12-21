@@ -1,3 +1,3 @@
 # XCode Basics
 
-## Debugging: View ---> Debug Area
+### Debugging: View ---> Debug Area
