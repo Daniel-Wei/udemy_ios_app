@@ -1,3 +1,3 @@
 # XCode Basics
 
-### Debugging: View ---> Debug Area
+#### 1. Debugging: View --> Debug Area / Command + Shift + Y
