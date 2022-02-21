@@ -11,5 +11,7 @@
 #### 8. 'Roll" Buttion Connection Type: Action --> Drag below the func 'viewDidLoad' --> Event: Touch Up Inside --> Type: UIButton
 #### &emsp; @IBAction func rollButtonPressed(_ sender: Any) { }
 #### 9. Single Line Comment: //    Multi Lines Comment: /* 
-#### 10. String Interpolation(插值 内插): \(<Code>) --> Print("Hello \(2+3) World") --> Hello 5 World
-#### 11. 
+#### 10. String Interpolation(插值 内插): Print("Hello \(2+3) World") --> Hello 5 World
+#### 11. Storing Data using Variables and Arrays
+#### &emsp; Array: [] --> diceImageViewOne.image = [ #imageLiteral(resourceName: "DiceOne"), #imageLiteral(resourceName: "DiceTwo"), #imageLiteral(resourceName: "DiceThree"), #imageLiteral(resourceName: "DiceFour"), #imageLiteral(resourceName: "DiceFive"), #imageLiteral(resourceName: "DiceSix")][leftDiceNum]
+#### &emsp;
