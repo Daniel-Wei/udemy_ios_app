@@ -12,4 +12,14 @@
 ####    &emsp; --> Top Left is the X-Y Origin --> Web 'PaintCode' provides the iPhone Sizes
 ####    &emsp; --> Element Positioning: Its Top Left Corner to the Origin
 #### 8. Incorporate Own Image Assets into the App
-####    &emsp; 8.1
+#####   &emsp; 8.1 appbrewery.co/p/ios-course-resources
+#####   &emsp; 8.2 Add Own Images intoo Assets.xcassets Folder: Click and Drag
+#####   &emsp; 8.3 1x == 1 tile to represent the image, 2x == 4 tiles, 3x = 9 tiles
+#####   &emsp; 8.4 300^2 px as 3x image, scale down to 200^2/100^2 px for 2x/1x images
+#####   &emsp; 8.5 In iPhone, if 300^2 px for 3x, the max size could be used in app is 100^2 px
+#####   &emsp; 8.4 Generate Image Sets: Web 'appicon.co' -> image sets
+#### 9. Assets.xcassets --> Appicon
+##### &emsp; 9.1 Web 'appicon.co' -> App Icon
+##### &emsp; 9.2 Image to 1024^2 px: Canva
+
+
