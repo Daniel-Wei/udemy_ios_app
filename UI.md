@@ -19,7 +19,11 @@
 #####   &emsp; 8.5 In iPhone, if 300^2 px for 3x, the max size could be used in app is 100^2 px
 #####   &emsp; 8.4 Generate Image Sets: Web 'appicon.co' -> image sets
 #### 9. Assets.xcassets --> Appicon
-##### &emsp; 9.1 Web 'appicon.co' -> App Icon
-##### &emsp; 9.2 Image to 1024^2 px: Canva
+##### &emsp; 9.1 Image to 1024^2 px: Canva --> Custom --> Shapes --> Download
+##### &emsp; 9.2 Web 'appicon.co' -> App Icon --> Generate for iPhone 11 diff sizes icons 
+##### &emsp; &emsp; --> Download --> Replace the 'AppIcon.appiconset' folder in the 'Assets.xcassets' folder
+#### 10. Run
+##### &emsp; 10.1 On Simulator: Top Left 'Run" Button
+##### &emsp; 10.2 On Physical Device: Connect Device --> Click on 'Proj Name' -> Signing & Capabilities
 
 
