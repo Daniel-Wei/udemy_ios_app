@@ -13,5 +13,11 @@
 #### 9. Single Line Comment: //    Multi Lines Comment: /* 
 #### 10. String Interpolation(插值 内插): Print("Hello \(2+3) World") --> Hello 5 World
 #### 11. Storing Data using Variables and Arrays
-#### &emsp; Array: [] 
+#### &emsp; Array: []: Same space between the '=' assignment
+#### &emsp; var --- variable; let --- constant
+#### 12. Double: doubles the precision of float
+#### 13. Range Operator 'in': in: lower ... upper(inclusive)/ lower ..< upper(exclusive)
+#### 14. Randomise Array: array.randomElement() / array.shuffle()
+#### 15. 
+
 
