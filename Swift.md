@@ -18,16 +18,16 @@
 #### 12. Double: doubles the precision of float
 #### 13. Range Operator 'in': in: lower ... upper(inclusive)/ lower ..< upper(exclusive)
 #### 14. Randomise Array: array.randomElement() / array.shuffle()
-#### &emsp; func exercise() {
+#### &emsp;  func exercise() {
     
-#### &emsp; &emsp;    let alphabet = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"]
+#### &emsp; &emsp;     let alphabet = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"]
     
-#### &emsp; &emsp;   //The number of letters in alphabet equals 26
+#### &emsp; &emsp;    //The number of letters in alphabet equals 26
     
-#### &emsp; &emsp;    let password = alphabet.shuffled().prefix(6).joined()
+#### &emsp; &emsp;     let password = alphabet.shuffled().prefix(6).joined()
     
-#### &emsp; &emsp;    print(password)
+#### &emsp; &emsp;     print(password)
     
-#### &emsp; &emsp;}
+#### &emsp; &emsp; }
 
 
